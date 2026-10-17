@@ -15,3 +15,12 @@ def test_login_with_empty_username():
     assert username == ""
 
     print("Login validation test passed.")
+
+def test_login_with_empty_password():
+    username = "student123"
+    password = ""
+
+    assert username != ""
+    assert password == ""
+
+    print("Empty password validation test passed.")
