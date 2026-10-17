@@ -22,3 +22,8 @@ and an invalid status.
 ## Purpose
 To demonstrate version control of QA test scripts
 using Git and GitHub.
+
+## Version Control
+This project uses Git and GitHub to track changes,
+maintain commit history, and share test scripts.
+
